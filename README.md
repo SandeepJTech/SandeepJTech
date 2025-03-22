@@ -55,6 +55,7 @@
 - 📧 **Email:** [sandeepjannu679@gmail.com](mailto:sandeepjannu679@gmail.com)
 
 ---
+![snake gif](https://github.com/SandeepJTech/SandeepJTech/blob/output/github-snake.svg)
 
 🌟 **Let's build the future of tech together!** 🚀
 
