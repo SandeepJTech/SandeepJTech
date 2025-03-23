@@ -1,7 +1,9 @@
 <!-- Profile Header -->
 <h1 align="center">Hey there! 👋 I'm Sandeep Jannu</h1>
 <h3 align="center">An Electronics & Communication Engineering Student | Embedded Systems & IoT Enthusiast | Tech Innovator 🚀</h3>
-
+<div align="center">
+  <img height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+</div>
 ---
 
 ### 🚀 About Me:
