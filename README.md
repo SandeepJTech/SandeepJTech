@@ -8,10 +8,9 @@
 
 ### 🚀 About Me:
 - 📚 B.Tech in **Electronics & Communication Engineering** (MRCET, 2022-2026) 
-- 🔬 Passionate about **Embedded Systems, IoT, and Tech Innovations**
+- 🔬 Passionate about **Tech Innovations,BUILDING AI AGENTS**
 - 🛠 Skilled in **Python, C, MATLAB, Arduino, Microcontrollers, and AWS S3**
-- 💡 Creator of **FlashFix** - A 10-minute tech repair & instant delivery models.
-- 🎮 Exploring **FilmTech** - An innovative idea where fans act as movie producers.
+- 💡 EXPLORING **FlashFix** - A 10-minute tech repair & instant delivery models.
 - 📝 Certified in **AWS, TCS iON, Accenture Data Analytics, Walmart Advanced Software Engineering**
 - 📚 Interests: **Tech, Content Writing, Video Editing, and Reading**
 
